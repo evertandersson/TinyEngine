@@ -1,0 +1,31 @@
+﻿  Actor.cpp
+  Bullet.cpp
+  Camera.cpp
+C:\Users\evert.andersson\Desktop\C-Damy-main\src\Game\Camera.cpp(11,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\evert.andersson\Desktop\C-Damy-main\src\Game\Camera.cpp(11,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Enemy.cpp
+C:\Users\evert.andersson\Desktop\C-Damy-main\src\Game\Enemy.cpp(44,79): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\evert.andersson\Desktop\C-Damy-main\src\Game\Enemy.cpp(44,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\evert.andersson\Desktop\C-Damy-main\src\Game\Enemy.cpp(44,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\evert.andersson\Desktop\C-Damy-main\src\Game\Enemy.cpp(44,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\evert.andersson\Desktop\C-Damy-main\src\Game\Enemy.cpp(51,4): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\evert.andersson\Desktop\C-Damy-main\src\Game\Enemy.cpp(50,15): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\evert.andersson\Desktop\C-Damy-main\src\Game\Enemy.cpp(49,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\evert.andersson\Desktop\C-Damy-main\src\Game\Enemy.cpp(48,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Game.cpp
+C:\Users\evert.andersson\Desktop\C-Damy-main\src\Game\Game.cpp(87,51): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\evert.andersson\Desktop\C-Damy-main\src\Game\Game.cpp(87,40): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\evert.andersson\Desktop\C-Damy-main\src\Game\Game.cpp(87,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\evert.andersson\Desktop\C-Damy-main\src\Game\Game.cpp(87,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Player.cpp
+C:\Users\evert.andersson\Desktop\C-Damy-main\src\Game\Player.cpp(35,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\evert.andersson\Desktop\C-Damy-main\src\Game\Player.cpp(35,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\evert.andersson\Desktop\C-Damy-main\src\Game\Player.cpp(56,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\evert.andersson\Desktop\C-Damy-main\src\Game\Player.cpp(56,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\evert.andersson\Desktop\C-Damy-main\src\Game\Player.cpp(68,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\evert.andersson\Desktop\C-Damy-main\src\Game\Player.cpp(68,16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\evert.andersson\Desktop\C-Damy-main\src\Game\Player.cpp(67,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\evert.andersson\Desktop\C-Damy-main\src\Game\Player.cpp(67,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  TinyEngine.vcxproj -> C:\Users\evert.andersson\Desktop\C-Damy-main\bin\TinyEngine_Debug.exe
